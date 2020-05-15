@@ -154,3 +154,7 @@ The American Planning Association provides leadership in the development of vita
 - find some planning documents and do some NLP (text classification, clustering, topic modeling, etc.) on them
   - try to infer some common terms in different types of documents
 
+---
+
+- Google doc with more detailed project prompts: https://bit.ly/2Zb6CSn
+- Sketch City Slack: link on top right of http://sketchcity.org
