@@ -111,3 +111,46 @@ The American Planning Association provides leadership in the development of vita
 ![](../img/011_google_maps.png)
 
 
+-----
+
+[GTFS Transit Data Visualization in R](https://dzone.com/articles/gtfs-transit-data-visualization-in-r)
+
+![](../img/gtfs_viz_combined.png)
+
+## Mobility Data Specification
+
+- A [data standard](https://github.com/openmobilityfoundation/mobility-data-specification) to enable communication between mobility companies and local governments
+  - dockelss scooters, mopeds, and car share
+- goal is to provide a standardized way for municipalities and other regulatory agencies to ingest, compare, and analyze data from mobility service providers
+
+------
+
+- initially created by Los Angeles DOT
+- now currently in use in Austin, TX, among several other cities
+  - https://austintexas.gov/department/shared-mobility-services
+  - https://micro.mobility.austin.gov/
+  - https://github.com/cityofaustin/atd-dockless-api
+
+## OpenSidewalks
+
+![](../img/open_sidewalks.png)
+
+# Ideas
+
+## Metadata Attributes
+
+- What metadata attributes should apply to every type of planning document?
+- What metadata attributes should apply to more specific types of planning documents?
+  - Corridor Plans, Affordable Housing Plans, etc.
+
+## Formats and Products/Tools
+
+- What format should a planning document metadata standard take?
+  - [JSON Schema](https://json-schema.org/) and/or [XSD](https://en.wikipedia.org/wiki/XML_schema)?
+- What are some tools that could be developed to allow planning agencies and consultants to embed metadata in their documents?
+
+## NLP
+
+- find some planning documents and do some NLP (text classification, clustering, topic modeling, etc.) on them
+  - try to infer some common terms in different types of documents
+
