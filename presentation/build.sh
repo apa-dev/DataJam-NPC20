@@ -13,5 +13,10 @@ then
     theme=sky
 fi
 
+if [[ ! -d ./build ]]
+then
+    mkdir build
+fi
+
 
 pandoc -t revealjs -s -o build/index.html src/slides.md -V revealjs-url=../reveal.js -V theme=$theme
