@@ -158,3 +158,5 @@ The American Planning Association provides leadership in the development of vita
 
 - Google doc with more detailed project prompts: https://bit.ly/2Zb6CSn
 - Sketch City Slack: link on top right of http://sketchcity.org
+- DataJam GitHub repo: https://github.com/apa-dev/DataJam-NPC20
+  - Pull Requests welcome!
